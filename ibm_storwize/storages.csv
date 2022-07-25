@@ -1,0 +1,6 @@
+v7000-1.domain.local,nocompression
+v7000-2.domain.local,nocompression
+v7000-3.domain.local,nocompression
+fs9150-1.domain.local,compression
+fs9150-2.domain.local,compression
+fs9150-3.domain.local,compression
